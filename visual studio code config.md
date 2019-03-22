@@ -31,4 +31,4 @@
   
 }
 ```
-> 字体方面我还是喜欢 [Source Code Pro](https://github.com/adobe-fonts/source-code-pro),(Source Code Variable)[https://github.com/adobe-fonts/source-code-pro/releases]
+> 字体方面我还是喜欢 [Source Code Pro](https://github.com/adobe-fonts/source-code-pro),[source code variable](https://github.com/adobe-fonts/source-code-pro/releases)
